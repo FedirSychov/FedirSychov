@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fedor Sychev
-- 👀 I’m interested in iOS developing
-- 🌱 I’m currently learning Swift
+- 👀 I’m iOS developer
+- 🌱 I’m currently studying in Hochschule Augsburg
 - 📫 How to reach me sychevfv@icloud.com
 
 <!---
