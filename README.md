@@ -1,7 +1,47 @@
 - 👋 Hi, I’m Fedor Sychev
-- 👀 I’m iOS developer
-- 🌱 I’m currently studying in Hochschule Augsburg
+- 👀 I’m iOS developer 
+- 🌱 I study in Hochschule Augsburg
 - 📫 How to reach me sychevfv@icloud.com
+- My XING account: https://www.xing.com/profile/Fedir_Sychov/cv
+
+Here is some information about me:
+
+👨‍💻 Programming languages: 
+- Swift
+- C# 
+- Java 
+- Python 
+ 
+Database development: 
+- MySQL 
+
+Libraries and frameworks: 
+- SwiftUI
+- CocoaPods 
+- CoreData 
+- CloudKit 
+- Charts 
+- TinyConstraints 
+- Purchases 
+- RevenueCat 
+- MapKit 
+- CoreLocation 
+
+Language skills: 
+German - B2-C1 (TestDaf) 
+English - B2 
+Russian - Native Language
+Ukrainian - Native Language 
+
+Studies: 
+2019-2021 
+Cuban State Technological University 
+Faculty of Computer Systems and Information Security 
+Software Engineering course 
+
+2021 - until today 
+Augsburg University of Applied Sciences
+Faculty of Informatics
 
 <!---
 HamsterHonnex/HamsterHonnex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
