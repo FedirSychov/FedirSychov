@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fedor Sychev
+- 👋 Hi, I’m Fedir Sychov
 - 👀 I’m iOS developer 
 - 🌱 I study in Hochschule Augsburg
 - 📫 How to reach me sychevfv@icloud.com
@@ -10,6 +10,7 @@ Here is some information about me:
 - Swift
 - C# 
 - Java 
+- JavaScript
 - Python 
  
 Database development: 
@@ -20,6 +21,8 @@ Libraries and frameworks:
 - CocoaPods 
 - CoreData 
 - CloudKit 
+- JsonAPI
+- REST API
 - Charts 
 - TinyConstraints 
 - Purchases 
