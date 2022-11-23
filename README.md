@@ -47,6 +47,11 @@ Software Engineering course
 Augsburg University of Applied Sciences
 Faculty of Informatics
 
+Job:
+April 2022 - until today
+[it-economics](https://www.it-economics.de) iOS Developer - working student
+
+
 <!---
 HamsterHonnex/HamsterHonnex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
