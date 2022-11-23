@@ -41,15 +41,15 @@ Studies:\
 2019-2021\
 Cuban State Technological University \
 Faculty of Computer Systems and Information Security\
-Software Engineering course\
+Software Engineering course
 
 2021 - until today\
 Augsburg University of Applied Sciences\
-Faculty of Informatics\
+Faculty of Informatics
 
 Job:\
 April 2022 - until today\
-[it-economics](https://www.it-economics.de) iOS Developer - working student\
+[it-economics](https://www.it-economics.de) iOS Developer - working student
 
 
 <!---
