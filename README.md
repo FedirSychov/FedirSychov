@@ -31,10 +31,10 @@ Libraries and frameworks:
 - MapKit 
 - CoreLocation 
 
-Language skills: 
-German - B2-C1 (TestDaf) 
-English - B2 
-Russian - Native Language
+Language skills:\
+German - B2-C1 (TestDaf)\
+English - B2\
+Russian - Native Language\
 Ukrainian - Native Language 
 
 Studies:\
