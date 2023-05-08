@@ -8,6 +8,8 @@ Here is some information about me:
 
 👨‍💻 Programming languages: 
 - Swift
+- Kotlin
+- Dart
 - C# 
 - Java 
 - JavaScript
@@ -17,6 +19,7 @@ Database development:
 - MySQL 
 
 Libraries and frameworks: 
+- Flutter
 - UIKit
 - SwiftUI
 - CocoaPods 
