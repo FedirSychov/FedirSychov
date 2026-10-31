@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fedir Sychov
 - 👀 I’m iOS developer 
 - 🌱 I graduated from Hochschule Augsburg
-- 📫 How to reach me sychevfv@icloud.com
+- 📫 How to reach me sychovfedir@gmail.com
 
 Here is some information about me:
 
@@ -13,25 +13,6 @@ Here is some information about me:
 - Java 
 - JavaScript
 - Python 
- 
-Database development: 
-- MySQL 
-
-Libraries and frameworks: 
-- Flutter
-- UIKit
-- SwiftUI
-- CocoaPods 
-- CoreData 
-- CloudKit 
-- JsonAPI
-- REST API
-- Charts 
-- TinyConstraints 
-- Purchases 
-- RevenueCat 
-- MapKit 
-- CoreLocation 
 
 Language skills:\
 German - C1 (TestDaf)\
